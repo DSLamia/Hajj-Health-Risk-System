@@ -37,7 +37,6 @@ The system operates via a tightly decoupled client-server architecture designed 
 ---
 
 
-
 ## 🛠️ Key Architectural Updates (Production Deployment)
 
 
